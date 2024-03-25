@@ -840,7 +840,7 @@ class Drink{
             $("#otherBtnDiv").hide();
             $("#recipeInfoDiv").hide();
             $("#cocktailBtnDiv").show();
-            $(".margarita-buttons").show()//.fadeIn(200);
+            $(".cocktails-buttons").show()//.fadeIn(200);
             $(".button-container").show();
             openFullscreen();
         });
@@ -870,7 +870,7 @@ class Drink{
             openFullscreen();
         });
     
-        $("#navSpecialty").click(function(){
+        $("#navMartinis").click(function(){
             $(".item3").hide();
             $("#recipeDiv").hide();
             $(".drink-title").hide();
@@ -889,8 +889,8 @@ class Drink{
             $("#cocktailBtnDiv").hide();
             $("#otherBtnDiv").hide();
             $("#recipeInfoDiv").hide();
-            $("#specialtyBtnDiv").show();
-            $(".specialty-buttons").show()//.fadeIn(200);
+            $("#martinisBtnDiv").show();
+            $(".martinis-buttons").show()//.fadeIn(200);
             $(".button-container").show();
             openFullscreen();
         });
