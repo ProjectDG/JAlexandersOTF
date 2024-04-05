@@ -1,0 +1,63 @@
+[
+    {
+        "name": "question48",
+        "question": "What drafts do we offer?",
+        "correct_answers":
+        [
+            "Modelo Especial",
+            "Stella Artois",
+            "Riptide",
+            "Spacedust IPA",
+            "Turtle Season IPA"
+        ],
+        "wrong_answers": [
+            "Heineken",
+            "Budweiser",
+            "Coors Light",
+            "Guinness",
+            "Blue Moon"
+        ],
+        "type": "select multiple"
+    },
+    {
+        "name": "question49",
+        "question": "What Hand Crafted Cocktails do we offer on our menu?",
+        "correct_answers":
+        [
+            "Midnight Margarita",
+            "Aperol Spritz",
+            "Sparkling Paloma",
+            "Kentucky Old Fashioned",
+            "The Matador"
+        ],
+        "wrong_answers": [
+            "Mojito",
+            "Cosmopolitan",
+            "Martini",
+            "Moscow Mule",
+            "Whiskey Sour"
+        ],
+        "type": "select multiple"
+    },
+    {
+        "name": "question50",
+        "question": "What Hand Crafted Martinis do we offer on our menu?",
+        "correct_answers":
+        [
+            "The Duke",
+            "'21' Manhattan",
+            "Pear Martini",
+            "Red-Headed Rita Martini",
+            "Espresso Martini"
+        ],
+        "wrong_answers": [
+            "Gibson Martini",
+            "Lemon Drop Martini",
+            "Chocolate Martini",
+            "Blueberry Martini",
+            "French Martini"
+        ],
+        "type": "select multiple"
+    }
+
+]

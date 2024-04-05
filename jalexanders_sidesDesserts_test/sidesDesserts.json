@@ -1,0 +1,43 @@
+[
+    {
+        "name": "question6",
+        "question": "What are the available sides?",
+        "correct_answers": [
+            "French Fries",
+            "Southern Cole Slaw",
+            "Broccoli with Lemon and Reggiano",
+            "Orzo & Wild Rice",
+            "Couscous",
+            "Smashed Red Potatoes",
+            "Loaded Baked Potato",
+            "Not Your Ordinary Mac & Cheese",
+            "Asparagus"
+        ],
+        "wrong_answers": [
+            "Mashed Potatoes",
+            "Green Beans",
+            "Caesar Salad",
+            "Onion Rings",
+            "Sweet Potato Fries",
+            "Quinoa Salad"
+        ],
+        "type": "select multiple"
+    },
+    {
+        "name": "question47",
+        "question": "What desserts do we offer?",
+        "correct_answers":
+        [
+            "Carrot Cake",
+            "Very Best Chocolate Cake",
+            "Key Lime Pie"
+        ],
+        "wrong_answers": [
+            "Apple Pie",
+            "Chocolate Souffle",
+            "Tiramisu",
+            "Raspberry Sorbet"
+        ],
+        "type": "select multiple"
+    }
+]
