@@ -73,8 +73,8 @@ ul {
 
 .options label {
   display: block;
-  margin: 2vh;
-  font-size: 2vh;
+  margin: 2vh .5vh;
+  font-size: 1.75vh;
 }
 
 button {
@@ -143,6 +143,7 @@ button:hover {
   border: 4px outset rgb(122, 113, 113);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   text-align: center;
+  max-width: 95%;
   max-height: 68%;
   overflow: scroll;
 }

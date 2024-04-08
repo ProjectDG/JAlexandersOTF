@@ -1,0 +1,262 @@
+[
+    {
+        "name": "question1",
+        "question": "What is the POS Code for Chicken Pasta Soup?",
+        "correct_answers": "CPS",
+        "wrong_answers": ["CHPS", "PASTSOUP", "CPASTA", "CHOPA"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question2",
+        "question": "What is the POS Code for Spinach Con Queso?",
+        "correct_answers": "QUESO APP",
+        "wrong_answers": ["SPQ", "SQ", "SCONQ", "SPINQ"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question3",
+        "question": "What is the POS Code for Fire-Grilled Artichokes?",
+        "correct_answers": "CHOKE APP",
+        "wrong_answers": ["ARTFIRE", "FGRILART", "FIRGRILART", "FGRILCHOK"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question4",
+        "question": "What is the POS Code for Crispy Calamari?",
+        "correct_answers": "CALA",
+        "wrong_answers": ["CALAM", "CRISPCAL", "CRISPY", "CALACALA"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question5",
+        "question": "What is the POS Code for Avocado Bomb?",
+        "correct_answers": "AVO BOMB",
+        "wrong_answers": ["AVBOMB", "AVOCADO", "AVOBOM", "AVBOMBS"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question6",
+        "question": "What is the POS Code for Alex's Salad?",
+        "correct_answers": "HOUSE SAL",
+        "wrong_answers": ["ASAL", "ALEXSAL", "ALEX", "ALEXSALAD"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question7",
+        "question": "What is the POS Code for Original Caesar Salad?",
+        "correct_answers": "CZR SAL",
+        "wrong_answers": ["ORIGCES", "ORIGSAL", "ORIGCAES", "CAESAR"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question8",
+        "question": "What is the POS Code for Thai Kai Salad?",
+        "correct_answers": "THAI SAL",
+        "wrong_answers": ["TKSA", "THAIKAI", "THAIKS", "KAISSAL"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question9",
+        "question": "What is the POS Code for Asian Ahi Tuna Salad?",
+        "correct_answers": "AHI SAL",
+        "wrong_answers": ["AHIASAL", "ASIAHIS", "ASIATUNA", "ASIATUNASAL"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question10",
+        "question": "What is the POS Code for Cypress Salad?",
+        "correct_answers": "CYP SAL",
+        "wrong_answers": ["CYPSAL", "CYPRESS", "CYPRESSAL", "CYSAL"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question11",
+        "question": "What is the POS Code for Filet Mignon w/ Bearnaise?",
+        "correct_answers": "FILET BEAR",
+        "wrong_answers": ["BEARNAISE", "FMBEAR", "FMBEARNAISE", "FILMIG"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question12",
+        "question": "What is the POS Code for BBQ Baby Back Ribs?",
+        "correct_answers": "BACK",
+        "wrong_answers": ["BBQ", "BABYRIBS", "BBRIBS", "BBQBACK"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question13",
+        "question": "What is the POS Code for Prime Rib?",
+        "correct_answers": "12 OZ PRIME",
+        "wrong_answers": ["PRIME", "RIB", "PRIME RIB", "12OZ"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question14",
+        "question": "What is the POS Code for Steak & Fries?",
+        "correct_answers": "STEAK & FF",
+        "wrong_answers": ["STEAK", "FRIES", "STEAKFRIES", "S&F"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question15",
+        "question": "What is the POS Code for Seared Ahi Tuna?",
+        "correct_answers": "AHI STEAK",
+        "wrong_answers": ["SEA AHI", "AHI SEAR", "SEARAHI", "SEARA"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question16",
+        "question": "What is the POS Code for Grilled Salmon?",
+        "correct_answers": "SALMON",
+        "wrong_answers": ["GRILLSAL", "SALMONGRILL", "GRILLSALM", "GRISSAL"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question17",
+        "question": "What is the POS Code for Grilled Trout Almadine?",
+        "correct_answers": "TROUT",
+        "wrong_answers": ["TROUTAL", "TROUTGRILL", "TROUTMAD", "TROUTALM"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question18",
+        "question": "What is the POS Code for Cilantro Shrimp?",
+        "correct_answers": "CIL SHRIMP",
+        "wrong_answers": ["CILANTRO", "CILSHRIMP", "SHRIMP", "CILANSHRIMP"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question19",
+        "question": "What is the POS Code for Oven Roasted Chicken?",
+        "correct_answers": "ROAST CHIX",
+        "wrong_answers": ["OVENROAST", "CHIXROAST", "OVENCHIX", "ROASTEDCHIX"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question20",
+        "question": "What is the POS Code for Brasseire Chicken?",
+        "correct_answers": "BRASS CHIX",
+        "wrong_answers": ["BRAISCHIX", "CHIXBRAIS", "BCHIX", "BCHICK"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question21",
+        "question": "What is the POS Code for Mr. Jack's Crispy Chicken Platter??",
+        "correct_answers": "FINGER PLAT",
+        "wrong_answers": ["CRISPYPLAT", "CHIXPLAT", "JACKPLAT", "FINGERCHIX"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question22",
+        "question": "What is the POS Code for Crab Cakes?",
+        "correct_answers": "CRAB",
+        "wrong_answers": ["CRABC", "CRABK", "CRABCAK", "CRABKAKE"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question23",
+        "question": "What is the POS Code for French Dip?",
+        "correct_answers": "FRENCH SAND",
+        "wrong_answers": ["DIP", "FRDSAND", "FDIP", "FRDIP"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question24",
+        "question": "What is the POS Code for Old Fashioned Cheeseburger?",
+        "correct_answers": "CZ BG",
+        "wrong_answers": ["OFCHEESE", "CHEESEBURG", "BURGCHEESE", "OLD BURG"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question25",
+        "question": "What is the POS Code for Veggie Burger?",
+        "correct_answers": "VEG BG",
+        "wrong_answers": ["VGBURG", "VEGEBURG", "BGGIE", "VEGB"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question26",
+        "question": "What is the POS Code for Crispy Chicken Sandwich?",
+        "correct_answers": "CHX SAND",
+        "wrong_answers": ["CHXWICH", "CHICKSAND", "CRISPCHX", "CRISPSAND"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question27",
+        "question": "What is the POS Code for French Fries?",
+        "correct_answers": "FF",
+        "wrong_answers": ["FRIES", "FRFRIES", "FRF", "FRI"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question28",
+        "question": "What is the POS Code for Broccoli?",
+        "correct_answers": "BROC",
+        "wrong_answers": ["BROCC", "BROCOLI", "BROCCO", "BRO"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question29",
+        "question": "What is the POS Code for Orzo & Wild Rice?",
+        "correct_answers": "ORZO",
+        "wrong_answers": ["WILDRICE", "ORZORICE", "RICEORZO", "WILDORZO"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question30",
+        "question": "What is the POS Code for Couscous?",
+        "correct_answers": "COUS",
+        "wrong_answers": ["COUSS", "COSCOUS", "COUCOUS", "COUSCO"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question31",
+        "question": "What is the POS Code for Smashed Red Potatoes?",
+        "correct_answers": "SMASH",
+        "wrong_answers": ["SMRED", "SMRPOT", "REDSMASH", "SMASHED"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question32",
+        "question": "What is the POS Code for Southern Cole Slaw?",
+        "correct_answers": "SLAW",
+        "wrong_answers": ["COLESLAW", "SCSLAW", "SOUTHSLAW", "COLE"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question33",
+        "question": "What is the POS Code for Baked Potato?",
+        "correct_answers": "POT",
+        "wrong_answers": ["BAKEPOT", "POTATO", "BAKEDPOT", "POTATOB"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question34",
+        "question": "What is the POS Code for NYO Mac & Cheese?",
+        "correct_answers": "MAC",
+        "wrong_answers": ["NYO", "MACCHEESE", "MACN", "CHEESEMAC"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question35",
+        "question": "What is the POS Code for Carrot Cake?",
+        "correct_answers": "CARROT",
+        "wrong_answers": ["CAKE", "CARCAKE", "CAKROTT", "CARROTCAKE"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question36",
+        "question": "What is the POS Code for Key Lime Pie?",
+        "correct_answers": "KEY LIME",
+        "wrong_answers": ["KLIME", "KEYPIE", "LIMEPIE", "KEYPI"],
+        "type": "multiple choice"
+    },
+    {
+        "name": "question37",
+        "question": "What is the POS Code for Very Best Chocolate Cake?",
+        "correct_answers": "VBCC",
+        "wrong_answers": ["VBCAKE", "CHOCOC", "BESTCC", "CHOCOL"],
+        "type": "multiple choice"
+    }
+]
+
